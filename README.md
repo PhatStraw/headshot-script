@@ -13,6 +13,8 @@ CLOUD_SECRET=your_cloudinary_secret
 LEAP_API_KEY=your_leap_api_key
 LEAP_WORKFLOW_ID=your_leap_workflow_id
 
+[FORK the headshot workflow leap provides to get the workflow ID] (https://app.tryleap.ai/dashboard/organization/org_SIPql7CBNZYVJ6/admin/discover/tpl_6QkAoJbT)
+
 ## Usage
 
 1. Place your images in the `./images` directory.
